@@ -2502,3 +2502,8 @@ module.exports = function (b, opts) {
 Plugins operate on the bundle instance `b` directly by listening for events or
 splicing transforms into the pipeline. Plugins should not overwrite bundle
 methods unless they have a very good reason.
+
+
+---
+
+thanks browserify! you've changed my life.
